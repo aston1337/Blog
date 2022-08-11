@@ -1,5 +1,8 @@
-# Blog
+# HTML CSS first steps(again)
 Chain of projects #1  
+***********
+HTML⬇️
+***********
 1 lesson✅  
 2 lesson✅  
 3 lesson✅  
@@ -16,10 +19,13 @@ Chain of projects #1
 14 lesson✅  
 15 lesson✅  
 16 lesson✅  
-17 lesson  
-18 lesson  
-19 lesson  
-20 lesson  
+17 lesson✅  
+18 lesson✅  
+19 lesson✅  
+20 lesson✅  
+***********
+CSS⬇️
+***********
 21 lesson  
 22 lesson  
 23 lesson  
