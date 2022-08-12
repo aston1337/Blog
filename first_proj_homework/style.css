@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    border: 3px solid #444;
+    font-family: sans-serif;
+}
+h1  {
+    text-align: center;
+    background-color: #EEE;
+}
+a:link {
+    color: black;
+}
+a:hover {
+    text-decoration: none;
+}
+li {
+    list-style: square;
+}
+button {
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    background-color: black;
+    border: 2px;
+}
+button:hover {
+    color: black;
+    text-transform: uppercase;
+    background-color: white;
+    cursor: crosshair;
+}
