@@ -66,3 +66,19 @@ li:nth-child(1){
 li:last-child{
     font-style: italic;
 }
+a:link{
+    color: #1098ad;
+    text-decoration: none;
+}
+a:visited {
+    color: #1098ad;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover{
+    color: orangered;
+}
+a:active {
+    background-color: black;
+    color: orangered;
+}
