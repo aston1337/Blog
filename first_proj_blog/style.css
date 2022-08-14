@@ -15,7 +15,9 @@ body {
     padding: 20px 40px;
     border-top: 10px solid #1098ad;
 }
-
+article {
+    margin-bottom: 60px;
+}
 .post-header {
     margin-bottom: 40px;
 }
