@@ -8,7 +8,10 @@ body {
     font-family: sans-serif;
     color: #444;
 }
-
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
 .main-header {
     margin-bottom: 60px;
     background-color: #f7f7f7;
