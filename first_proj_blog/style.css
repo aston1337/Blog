@@ -158,3 +158,14 @@ a:active {
     bottom: 40px;
     right: 40px;
 }
+
+/*----FLOATS----*/
+    .author-img {
+        margin-bottom: 20px;
+        float: left;
+    }
+    .author {
+        margin-top: 10px;
+        float: left;
+        margin-left: 20px;
+    }
