@@ -77,9 +77,9 @@ FLOAT FLEXBOX GRID⬇️
 ***********
 DESIGN PRINCIPLES⬇️
 ***********
-66 lesson  
-67 lesson  
-68 lesson  
+66 lesson✅  
+67 lesson✅  
+68 lesson✅  
 69 lesson  
 70 lesson  
 71 lesson  
