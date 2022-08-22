@@ -84,8 +84,8 @@ DESIGN PRINCIPLES⬇️
 70 lesson✅  
 71 lesson✅  
 72 lesson✅  
-73 lesson  
-74 lesson  
+73 lesson✅  
+74 lesson✅  
 75 lesson  
 76 lesson  
 77 lesson  
