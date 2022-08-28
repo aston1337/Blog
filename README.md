@@ -93,8 +93,8 @@ DESIGN PRINCIPLES⬇️
 79 lesson✅  
 80 lesson✅  
 81 lesson✅  
-82 lesson  
-83 lesson  
+82 lesson✅  
+83 lesson✅  
 84 lesson  
 85 lesson  
 86 lesson  
