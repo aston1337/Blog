@@ -97,7 +97,10 @@ DESIGN PRINCIPLES⬇️
 83 lesson✅  
 84 lesson✅  
 85 lesson✅  
-86 lesson  
+***********
+Components and Layout Patterns⬇️
+***********
+86 lesson✅  
 87 lesson  
 88 lesson  
 89 lesson  
